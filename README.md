@@ -16,13 +16,13 @@
     </ul>
     <h3>Projects</h3>
     <ul>
-      <li><strong>Project 1:</strong> A RESTful API for a real estate application, built with Node.js and Express.js. This API allowed users to search for properties by location, price, and other criteria, and provided detailed information about each property.</li>
+      <li><strong>Project 1:</strong> A RESTful API for a recipe application, built with Node.js and Express.js. This API allowed users to search for different foods by culture, name, and other criteria, and provided detailed information about each food.</li>
       <li><strong>Project 2:</strong> A Python script for data processing and analysis. This script used the Pandas library to clean and transform data from CSV files, and provided statistical analysis and visualizations of the data.</li>
       <li><strong>Project 3:</strong> A technical documentation website for a software product. This website included user guides, API references, and troubleshooting tips, and was built with a static site generator like Jekyll or Hugo.</li>
     </ul>
     <h3>Blog Posts</h3>
     <ul>
-      <li><a href="#">"10 Tips for Writing Clear and Concise Software Documentation"</a></li>
+      <li><a href="https://kelvincodes.hashnode.dev/demystifying-rest-apis-everything-you-need-to-know">"DEMISTIFYING REST APIs: Everything you need to know"</a></li>
       <li><a href="#">"An Introduction to GraphQL: A New Way to Build APIs"</a></li>
             <li><a href="#">"Scaling Your Backend: Best Practices for Handling High Traffic"</a></li>
     </ul>
