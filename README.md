@@ -23,7 +23,7 @@
     <h3>Blog Posts</h3>
     <ul>
       <li><a href="https://kelvincodes.hashnode.dev/demystifying-rest-apis-everything-you-need-to-know">"DEMISTIFYING REST APIs: Everything you need to know"</a></li>
-      <li><a href="#">"An Introduction to GraphQL: A New Way to Build APIs"</a></li>
+      <li><a href="https://medium.com/@onyenankiekelvin/15839acc2fb">"Introduction to JSON: How It is used in Backend Development"</a></li>
             <li><a href="#">"Scaling Your Backend: Best Practices for Handling High Traffic"</a></li>
     </ul>
     <h3>Contact</h3>
