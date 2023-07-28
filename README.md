@@ -18,20 +18,13 @@
 
 
 ### Glad to see you here!  
-I am a skilled backend developer with 1 year of experience in developing scalable server-side applications using JavaScript and database technologies such as [list of databases]. [He/She] is proficient in building RESTful APIs, and microservices architecture, and utilizing tools like Git, Docker, and Kubernetes for seamless application development, testing, and deployment. A great communicator and collaborator. I am committed to staying up-to-date with the latest industry trends and best practices.  
+I am a skilled backend developer with 1 year of experience in developing scalable server-side applications using JavaScript (Express) and database technologies such as MongoDB. I am proficient in building RESTful APIs, and microservices architecture, and utilizing tools like Git for seamless application development, testing, and deployment. A great communicator and collaborator. I am committed to staying up-to-date with the latest industry trends and best practices.  
   
 
 <br/>  
 
 
-## Rapidfire  
-Ask me anything on backend development😀  
-  
 
-My communication skills are amazing. you'll enjoy my company😛  
-  
-
-Fun fact: I love music😛🎹  
   
 
 <br/>  
