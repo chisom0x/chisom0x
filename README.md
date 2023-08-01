@@ -17,8 +17,8 @@
 
 
 
-### Glad to see you here!  
-I am a skilled backend developer with 1 year of experience in developing scalable server-side applications using JavaScript (Nodejs and Express) and database technologies such as MongoDB. I am proficient in building RESTful APIs, and microservices architecture, and utilizing tools like Git and postman for seamless application development, testing, and deployment. A great communicator and collaborator. I am committed to staying up-to-date with the latest industry trends and best practices.  
+
+
   
 
 <br/>  
